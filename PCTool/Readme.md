@@ -98,6 +98,8 @@ REVIVE USB ADVANCE Configuration Toolを立ち上げ、REVIVE USB ADVANCEを接�
  - 左クリック
  - 右クリック
  - ホイールクリック
+ - ボタン4
+ - ボタン5
  - 上移動
  - 下移動
  - 左移動
