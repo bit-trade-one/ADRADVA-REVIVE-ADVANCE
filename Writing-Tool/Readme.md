@@ -25,7 +25,7 @@ REVIVE USB ADVANCEに付属しているマイコンにはこのBootLoaderと言�
 
 ### 3. ソフトの書き込み
 
-最初に、設定ツールからREVIVE USB ADVANCEをBOOTモードにします。
+最初に、設定ツールからREVIVE USB ADVANCEをBOOTモードにします。  
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/01soft.png)  
 
 中央下の「Firmware Update」ボタンをクリックしてください。  
