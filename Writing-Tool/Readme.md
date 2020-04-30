@@ -19,7 +19,7 @@ REVIVE USB ADVANCEに付属しているマイコンにはこのBootLoaderと言�
 
 ### 2. 準備
 
-[こちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Writing-Tool/HIDBootLoaderPIC32.exe)からHIDBootLoaderPIC32.exeをダウンロードします。  
+[こちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/Writing-Tool/HIDBootLoaderPIC32.exe)からHIDBootLoaderPIC32.exeをダウンロードします。  
 
 書き込みたいソフトもダウンロードしておきます。  
 
