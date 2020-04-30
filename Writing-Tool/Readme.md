@@ -19,7 +19,7 @@ REVIVE USB ADVANCEに付属しているマイコンにはこのBootLoaderと言�
 
 ### 2. 準備
 
-[こちら](https://github.com/bit-trade-one/REVIVE-USB-MICRO/raw/master/Writing-Tool/HIDBootLoaderPIC32.exe)からHIDBootLoaderPIC32.exeをダウンロードします。  
+[こちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/Writing-Tool/HIDBootLoaderPIC32.exe)からHIDBootLoaderPIC32.exeをダウンロードします。  
 
 書き込みたいソフトもダウンロードしておきます。  
 
@@ -27,25 +27,35 @@ REVIVE USB ADVANCEに付属しているマイコンにはこのBootLoaderと言�
 
 最初に、設定ツールからREVIVE USB ADVANCEをBOOTモードにします。
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/01soft.png)  
-中央下の「Firmware Update」ボタンをクリックしてください。  
 
+中央下の「Firmware Update」ボタンをクリックしてください。  
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/02update.png)  
+
 するとこのようにダイアログが表示されます。  
 OKをクリックすると、REVIVE USB ADVANCEがBOOTモードになります。
 
 HIDBootLoaderPIC32.exeを立ち上げます。  
-
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/03HIDTool.png)  
-デバイスが認識されると上図の様に「Device attached」と表示されます。  
-初めてBOOTモードで接続した時には、自動的にPCにドライバがインストールされます。（約１分程時間かかります）  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/035connect.png)
 
-「Open Hex File」を押します。  
+「Connect」をクリックして、BOOTモードのREVIVE USB ADVANCEに接続します。  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/035connect.png)  
+
+デバイスが認識されると上図の様に「Device connected」と表示され、その下にブートローダのバージョン番号が表示されます。  
+
+初めてBOOTモードで接続した時には、自動的にPCにドライバがインストールされます。（約１分程時間かかります）  
+
+
+「Load Hex File」を押します。  
 書き込みたいHexファイルを選択します。  
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/04choose.png)  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/045write.png)
-「Program/Verify」を押します。  
+
+「Write Hex File」を押します。  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/045write.png)  
+
+
 ソフトが書き込まれます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/05Program.png)  
+下図の状態になったら書き込み完了です。  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/05Program.png) 
+
 USBケーブルを抜き差しすると、書き込んだソフトが起動します。  
 
