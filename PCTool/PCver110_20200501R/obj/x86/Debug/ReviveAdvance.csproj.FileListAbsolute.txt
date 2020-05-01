@@ -1,0 +1,16 @@
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\bin\x86\Debug\Revive_USB_Advance_CT.exe.config
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\bin\x86\Debug\Revive_USB_Advance_CT.exe
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\bin\x86\Debug\Revive_USB_Advance_CT.pdb
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\obj\x86\Debug\ReviveUSBAdvance.Form1.resources
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\obj\x86\Debug\Revive_USB_Advance_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\obj\x86\Debug\ReviveAdvance.csproj.GenerateResource.Cache
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\obj\x86\Debug\Revive_USB_Advance_CT.exe
+C:\Users\Shinozaki\work\ReviveAdvance\PCver100_20190926\obj\x86\Debug\Revive_USB_Advance_CT.pdb
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\bin\x86\Debug\Revive_USB_Advance_CT.exe.config
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\obj\x86\Debug\Revive_USB_Advance_CT.exe
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\obj\x86\Debug\Revive_USB_Advance_CT.pdb
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\obj\x86\Debug\ReviveUSBAdvance.Form1.resources
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\obj\x86\Debug\Revive_USB_Advance_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\obj\x86\Debug\ReviveAdvance.csproj.GenerateResource.Cache
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\bin\x86\Debug\Revive_USB_Advance_CT.exe
+C:\Users\Shinozaki\work\ReviveAdvance\PCver110_20200501\bin\x86\Debug\Revive_USB_Advance_CT.pdb
