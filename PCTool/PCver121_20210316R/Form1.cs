@@ -1606,7 +1606,7 @@ namespace ReviveUSBAdvance
                         // 設定変更有無チェック
                         byte[] digital_data_now = new byte[Constants.SW_DEVICE_DATA_LEN];
                         my_digital_setting_get_by_disp(digital_data_now);
-                        bool b_ret1 = my_digital_data_change_check(my_sw_datas.sw_datas[0].sw_data, digital_data_now);
+                        bool b_ret1 = my_digital_data_change_check(my_sw_datas.sw_datas[sw_selected].sw_data, digital_data_now);
                         if (b_ret1 == true)
                         {
                             int write_address = EepromControl.E2P_ADR_SW_INFO + (EepromControl.E2P_SW_INFO_SW_DATA_SIZE * sw_selected);
@@ -1641,8 +1641,8 @@ namespace ReviveUSBAdvance
 
                     // 設定変更有無チェック
                     byte[] analog_data_now = new byte[Constants.AN_DEVICE_DATA_LEN];
-                    my_analog_setting_get_by_disp(my_an_datas.an_datas[0].an_data, analog_data_now);
-                    bool b_ret1 = my_analog_data_change_check(my_an_datas.an_datas[0].an_data, analog_data_now);
+                    my_analog_setting_get_by_disp(my_an_datas.an_datas[an_selected].an_data, analog_data_now);
+                    bool b_ret1 = my_analog_data_change_check(my_an_datas.an_datas[an_selected].an_data, analog_data_now);
                     if (b_ret1 == true)
                     {
                         int write_address = EepromControl.E2P_ADR_AN_INFO + (EepromControl.E2P_AN_INFO_AN_DATA_SIZE * an_selected);
