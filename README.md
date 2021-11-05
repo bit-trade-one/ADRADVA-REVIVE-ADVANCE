@@ -1,12 +1,30 @@
 #  REVIVE USB ADVANCE
 
-「REVIVE USB ADVANCE」はUSBデバイス作成を強力にサポートするモジュール。
+## アナログ入力対応の REVIVE USB ADVANCE!
 
-初代REVIVE発売時より問い合わせの多かったアナログ入力に公式対応し、デジタル入力ピンと併せてこれまで以上に多機能なデバイス作成が可能です。
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2019/09/893f85fba08880efd2a74edeb33ddd02.jpg)  
 
-小型で薄い基板は組み込みもしやすく、思うままの形でデバイスを考案できます。
+「REVIVE USB ADVANCE」はUSBデバイス作成を強力にサポートするモジュール。  
+初代REVIVE発売時より問い合わせの多かったアナログ入力に公式対応し、デジタル入力ピンと併せてこれまで以上に多機能なデバイス作成が可能です。  
+小型で薄い基板は組み込みもしやすく、思うままの形でデバイスを考案できます。  
+様々な面で性能が向上したREVIVE USB ADVANCEで、あなただけのUSBデバイスを作成してみませんか。  
 
-様々な面で性能が向上したREVIVE USB ADVANCEで、あなただけのUSBデバイスを作成してみませんか。
+
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/adradva/) 
+
+## [マニュアルはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/PCTool)
+
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/Revive_USB_Advance_CT_v121.zip)  
+
+## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+
+## [Q&A](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/FAQ.md)
+ 
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
+
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/Firmware/FW_ReviveAdvance_v120_20210118R)
+
+### [回路図](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/REVIVE_advance_sch.pdf)
 
 ## 製品の特徴
 
