@@ -16,13 +16,15 @@
 
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/Revive_USB_Advance_CT_v121.zip)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Firmware/ReviveAdvance_v120_20210118.zip)
+
+## [ファームウェア書き込みツールはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/Writing-Tool)
 
 ## [Q&A](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/FAQ.md)
  
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/PCver121_20210316R.zip)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/Firmware/FW_ReviveAdvance_v120_20210118R)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Firmware/FW_ReviveAdvance_v120_20210118R.zip)
 
 ### [回路図](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/REVIVE_advance_sch.pdf)
 
