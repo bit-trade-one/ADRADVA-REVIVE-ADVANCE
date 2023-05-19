@@ -10,21 +10,17 @@
 様々な面で性能が向上したREVIVE USB ADVANCEで、あなただけのUSBデバイスを作成してみませんか。  
 
 
-# [製品の詳細はこちら](https://bit-trade-one.co.jp/adradva/) 
+# [製品HP](https://bit-trade-one.co.jp/adradva/) 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/PCTool)
+## [マニュアル](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/PCTool)
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/Revive_USB_Advance_CT_v121.zip)  
+## [アプリケーションソフトウェアダウンロードリンク](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/Revive_USB_Advance_CT_v121.zip)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Firmware/ReviveAdvance_v120_20210118.zip)
+### [ファームウェア](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Firmware/ReviveAdvance_v120_20210118.zip)
 
-## [ファームウェア書き込みツールはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/Writing-Tool)
+### [ファームウェア書き込みツール](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/tree/master/Writing-Tool)
 
 ## [Q&A](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/FAQ.md)
- 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/raw/master/PCTool/PCver121_20210316R.zip)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/Firmware/FW_ReviveAdvance_v120_20210118R.zip)
 
 ### [回路図](https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE/blob/master/REVIVE_advance_sch.pdf)
 
