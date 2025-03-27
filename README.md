@@ -79,7 +79,8 @@ DirectInputのX,Y,Z軸、更に各軸の回転の計6軸に加え、マウスカ
 ・改良のため、予告なく仕様変更をすることがあります。予めご了承下さい。  
 
 ## 作例
+[「Otogeworks」様 / 「アナログ入力に対応したREVIVE USB ADVANCEとカスタム版」](https://otogeworks.com/blog/revive-usb-advance-and-custom/)
 
-https://otogeworks.com/blog/revive-usb-advance-and-custom/
-https://note.com/hideaki_ksm/n/nba4292035d8c
-https://note.com/ky018560/n/n593b5ba46253
+[「Note」様 / 「「ADRVMIC REVIVE USB MICRO」によるサブモニタースタンドの製作」](https://note.com/hideaki_ksm/n/nba4292035d8c)
+
+[「Note」様 / 「自作ゲーム用コントローラー（ADRADVA REVIVE USB ADVANCE）」](https://note.com/ky018560/n/n593b5ba46253)
