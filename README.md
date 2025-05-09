@@ -84,3 +84,5 @@ DirectInputのX,Y,Z軸、更に各軸の回転の計6軸に加え、マウスカ
 [「Note」様 / 「「ADRADVA REVIVE USB ADVANCE」によるジョイスティックの自作」](https://note.com/hideaki_ksm/n/nba4292035d8c)
 
 [「Note」様 / 「自作ゲーム用コントローラー（ADRADVA REVIVE USB ADVANCE）」](https://note.com/ky018560/n/n593b5ba46253)
+
+[「もちいぬDoggye」様 /](https://x.com/doggye_dog/status/1267048958477524992?s=61&t=K7_oe2BjRKS2lTFRml1X2A)
